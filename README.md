@@ -2,9 +2,12 @@
 
 # 💫 About Me
 
-# 🐧 Rayy <img src="./konata.gif" width="280" align="right" />
-## grade 10 student at SMK Bina Informatika Bintaro
-#### One cannot turn back the clock, but one can move it forward
+<img src="./konata.gif" width="280" align="right" />
+
+# 🐧 Rayy
+### tinkering with things that shouldn't be tinkered with
+
+grade 10 student @ SMK Bina Informatika Bintaro
 
 <br clear="right"/>
 
@@ -36,7 +39,7 @@ or wherever the interesting kernel patches are going 🗺️
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,bash,python,html,css,nginx,linux,vim,git&theme=light&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bsd,bash,python,html,css,nginx,linux,arch,debian&theme=light&perline=10)](https://skillicons.dev)
 
 <br>
 
