@@ -1,8 +1,8 @@
 <div align="left">
 
-# Rayy!
+# 💫 About Me!
 
-# 🐧Rayy - tinkering with things that shouldn't be tinkered with
+# Rayy ✨: - tinkering with things that shouldn't be tinkered with
 
 <div align =left"> <img src="./konata.gif" width="300" />
 
