@@ -1,14 +1,12 @@
 <div align="left">
 
-# 💫 About Me!
+# 💫 About Me
 
-# Rayy ✨: - tinkering with things that shouldn't be tinkered with
+# 🐧 Rayy <img src="./konata.gif" width="280" align="right" />
+## grade 10 student at SMK Bina Informatika Bintaro
+#### One cannot turn back the clock, but one can move it forward
 
-<div align =left"> <img src="./konata.gif" width="300" />
-
-grade 10 student @ SMK Bina Informatika Bintaro
-
-</div>
+<br clear="right"/>
 
 ---
 
@@ -16,15 +14,15 @@ grade 10 student @ SMK Bina Informatika Bintaro
 
 i run debian (mainly and love trying out diffrent distroes) on my thinkpad and arch on my desktop.
 
-- linux internals, init systems, compositor/wayland stuff
-- OS engineering
-- building things from scratch just to understand how they work
-- eventually: GSoC, maybe building my own linux distro
+- 🖥️ linux internals, init systems, compositor/wayland stuff
+- ⚙️ OS engineering
+- 🔩 building things from scratch just to understand how they work
+- 🌱 eventually: GSoC, maybe building my own linux distro
 
 ### 🎯 dream path
 
-red hat / canonical / debian / freebsd foundation
-or wherever the interesting kernel patches are going
+red hat · canonical · debian · freebsd foundation
+or wherever the interesting kernel patches are going 🗺️
 
 ---
 
@@ -42,12 +40,6 @@ or wherever the interesting kernel patches are going
 
 <br>
 
-<div align="center">
-  <img src="https://media.tenor.com/lucky-star-tsukasa-hiiragi-gif-218023904530956340" width="300" />
-</div>
-
-<br>
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
@@ -61,3 +53,5 @@ or wherever the interesting kernel patches are going
     <img src="https://visitcount.itsvg.in/api?id=idnnn&icon=0&color=6" />
   </a>
 </p>
+
+</div>
