@@ -8,6 +8,8 @@ grade 10 student @ SMK Bina Informatika Bintaro
 
 </div>
 
+<img src="./konata.gif" width="300" />
+
 ---
 
 ### 🔧 what i'm into
@@ -40,23 +42,9 @@ or wherever the interesting kernel patches are going
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idnnn&theme=rose_pine_dawn&hide_border=true&include_all_commits=true&count_private=true&border_radius=16" />
-  <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=idnnn&theme=rose_pine_dawn&hide_border=true&border_radius=16" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idnnn&theme=rose_pine_dawn&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=16" />
-</p>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=idnnn&theme=rose_pine_dawn&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/lucky-star-tsukasa-hiiragi-gif-218023904530956340" width="300" />
+</div>
 
 <br>
 
