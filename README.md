@@ -1,14 +1,13 @@
-<div align="center">
+<div align="left">
 
 # 💫 About Me
 
-🐧 **Rayy** — tinkering with things that shouldn't be tinkered with
+#🐧 **Rayy** — tinkering with things that shouldn't be tinkered with
+<img src="./konata.gif" width="300" />
 
 grade 10 student @ SMK Bina Informatika Bintaro
 
 </div>
-
-<img src="./konata.gif" width="300" />
 
 ---
 
