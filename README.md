@@ -5,7 +5,7 @@
 <img src="./konata.gif" width="280" align="right" />
 
 # 🐧 Rayy
-### tinkering with things that shouldn't be tinkered with
+### larp larp larp
 
 grade 10 student @ SMK Bina Informatika Bintaro
 
@@ -15,9 +15,9 @@ grade 10 student @ SMK Bina Informatika Bintaro
 
 ### 🔧 what i'm into
 
-i run debian (mainly and love trying out diffrent distroes) on my thinkpad and arch on my desktop.
+i run debian (mainly and love trying out diffrent distroes) and arch.
 
-- 🖥️ linux internals, init systems, compositor/wayland stuff
+- 🖥️ linux internals
 - ⚙️ OS engineering
 - 🔩 building things from scratch just to understand how they work
 - 🌱 eventually: GSoC, maybe building my own linux distro
