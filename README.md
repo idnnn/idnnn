@@ -38,7 +38,7 @@ Currently spending most of my time with **Linux, C, Bash, and Python**, while ex
 
 **Systems & Tools**
 
-[![Linux](https://skillicons.dev/icons?i=linux,arch,debian,bsd)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux,bsd)](https://skillicons.dev)
 
 ---
 
