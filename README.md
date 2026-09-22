@@ -1,60 +1,77 @@
-<div align="left">
+<div align="center">
 
-# 💫 About Me
+# Rayy
 
-<img src="./konata.gif" width="280" align="right" />
+**Student developer · Linux enthusiast · Systems curious**
 
-# 🐧 Rayy
-### larp larp larp
+Jakarta, Indonesia · SMK Bina Informatika Bintaro
 
-grade 10 student @ SMK Bina Informatika Bintaro
+</div>
+
+---
+
+<img src="./konata.gif" width="240" align="right" />
+
+### About
+
+I'm a Grade 11 student interested in **systems engineering and operating systems**.
+
+I like taking things apart, rebuilding them, and figuring out why they work rather than simply making them work.
+
+Currently spending most of my time with **Linux, C, Bash, and Python**, while exploring how operating systems work underneath the surface.
 
 <br clear="right"/>
 
 ---
 
-### 🔧 what i'm into
+### Currently exploring
 
-i run debian (mainly and love trying out diffrent distroes) and arch.
+* Linux internals & system programming
+* Operating system concepts
+* C and low-level programming
+* Linux administration & tooling
+* Building small projects to understand how things work
 
-- 🖥️ linux internals
-- ⚙️ OS engineering
-- 🔩 building things from scratch just to understand how they work
-- 🌱 eventually: GSoC, maybe building my own linux distro
-
-### 🎯 dream path
-
-red hat · canonical · debian · freebsd foundation
-or wherever the interesting kernel patches are going 🗺️
+> Long-term: contribute to open-source systems projects and eventually work on operating systems or infrastructure.
 
 ---
 
-## 🌐 Socials
+### Tech
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rayy.ism)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/IndonesianRedditor8)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rayybenar)
+**Languages**
 
-<br>
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 
-## 💻 Tech Stack
+**Systems & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=c,bsd,bash,python,html,css,nginx,linux,arch,debian&theme=light&perline=10)](https://skillicons.dev)
-
-<br>
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</p>
+[![Linux](https://skillicons.dev/icons?i=linux,arch,debian,bsd,nginx)](https://skillicons.dev)
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=idnnn&icon=0&color=6" />
-  </a>
-</p>
+### What I'm building
+
+Most of my projects start with the same question:
+
+**"How does this actually work?"**
+
+I use projects as a way to learn, whether that's experimenting with Linux, writing something from scratch, or digging into a system just far enough to understand what's underneath it.
+
+More projects will live here as I build them.
+
+---
+
+### Find me
+
+[Instagram](https://instagram.com/rayy.ism) ·
+[Reddit](https://reddit.com/user/IndonesianRedditor8) ·
+
+
+---
+
+<div align="center">
+
+*still learning, still breaking things, still figuring them out.*
 
 </div>
