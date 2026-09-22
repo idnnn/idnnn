@@ -36,14 +36,6 @@ Currently spending most of my time with **Linux, C, Bash, and Python**, while ex
 
 ---
 
-### Tech
-
-**Languages**
-
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-
 **Systems & Tools**
 
 [![Linux](https://skillicons.dev/icons?i=linux,arch,debian,bsd,nginx)](https://skillicons.dev)
