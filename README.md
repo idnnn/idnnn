@@ -18,7 +18,7 @@ I'm a Grade 11 student interested in **systems engineering and operating systems
 
 I like taking things apart, rebuilding them, and figuring out why they work rather than simply making them work.
 
-Currently spending most of my time with **Linux, C, Bash, and Python**, while exploring how operating systems work underneath the surface.
+Currently spending most of my time with **Linux, BSD, and oses in general**, while exploring how operating systems work underneath the surface.
 
 <br clear="right"/>
 
