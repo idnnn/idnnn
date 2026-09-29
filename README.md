@@ -10,7 +10,7 @@ Jakarta, Indonesia · SMK Bina Informatika Bintaro
 
 ---
 
-<img src="./konata.gif" width="240" align="right" />
+<img src="./harugif" width="240" align="right" />
 
 ### About
 
