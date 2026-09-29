@@ -2,7 +2,7 @@
 
 # Rayy
 
-**Student developer · Linux enthusiast · Systems curious**
+**Network and Computer Engineering Student · Linux, BSD enthusiast · Curious**
 
 Jakarta, Indonesia · SMK Bina Informatika Bintaro
 
