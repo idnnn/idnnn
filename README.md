@@ -2,68 +2,58 @@
 
 # Rayy
 
-**Network and Computer Engineering Student · Linux, BSD enthusiast · Curious**
+**Systems & Network Engineering Student**
 
-Jakarta, Indonesia · SMK Bina Informatika Bintaro
+South Tangerang, Indonesia · SMK Bina Informatika Bintaro
+
+[![Linux](https://skillicons.dev/icons?i=linux,bsd)](https://skillicons.dev)
 
 </div>
 
 ---
 
-<img src="./harugif.gif" width="240" align="right" />
+<img src="./harugif.gif" width="220" align="right" />
 
 ### About
 
-I'm a Grade 11 student interested in **systems engineering and operating systems**.
+I'm a Grade 11 student focused on **systems engineering, networking, and infrastructure**.
 
-I like taking things apart, rebuilding them, and figuring out why they work rather than simply making them work.
+Most of my time is spent working with **Linux and BSD**, experimenting with system administration, virtualization, networking, and different operating systems.
 
-Currently spending most of my time with **Linux, BSD, and oses in general**, while exploring how operating systems work underneath the surface.
+I'm interested in the parts of computing that sit underneath applications: **how systems are configured, how infrastructure connects together, and how operating systems behave in real environments**.
 
 <br clear="right"/>
 
 ---
 
-### Currently exploring
+### Focus
 
-* Linux internals & system programming
-* Operating system concepts
-* C and low-level programming
-* Linux administration & tooling
-* Building small projects to understand how things work
+* Linux & BSD
+* System administration
+* Networking & infrastructure
+* Virtualization
+* Servers
+* Operating systems
 
-> Long-term: contribute to open-source systems projects and eventually work on operating systems or infrastructure.
+### Projects
 
----
+I mainly use GitHub to document things I'm building and experimenting with.
 
-**Systems & Tools**
+My projects tend to be hands-on: setting up systems, configuring infrastructure, testing different approaches, and troubleshooting things when they inevitably break.
 
-[![Linux](https://skillicons.dev/icons?i=linux,bsd)](https://skillicons.dev)
-
----
-
-### What I'm building
-
-Most of my projects start with the same question:
-
-**"How does this actually work?"**
-
-I use projects as a way to learn, whether that's experimenting with Linux, writing something from scratch, or digging into a system just far enough to understand what's underneath it.
-
-More projects will live here as I build them.
+The goal is simple: **learn by working with real systems.**
 
 ---
 
 ### Find me
 
 [Instagram](https://instagram.com/rayy.ism) ·
-[Reddit](https://reddit.com/user/IndonesianRedditor8) ·
-
+[Reddit](https://reddit.com/user/IndonesianRedditor8)
 
 ---
 
 <div align="center">
 
-*still learning, still breaking things, still figuring them out.*
+`Linux · BSD · Networking · Infrastructure`
 
 </div>
